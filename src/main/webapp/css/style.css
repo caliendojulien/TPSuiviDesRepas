@@ -1,0 +1,21 @@
+@font-face
+{
+    font-family: Foodpacker;
+    src: url(../fonts/Foodpacker.otf);
+}
+
+@font-face
+{
+    font-family: PWFoodcons;
+    src: url(../fonts/PWFoodcons.ttf);
+}
+
+h1
+{
+    font-family: Foodpacker, serif;
+    font-size: xxx-large;
+}
+
+p {
+    font-family: PWFoodcons, serif;
+}
